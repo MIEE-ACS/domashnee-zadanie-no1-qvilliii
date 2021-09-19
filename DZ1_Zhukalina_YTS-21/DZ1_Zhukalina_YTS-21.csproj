@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>DZ1_Zhukalina_YTS_21</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\diana\OneDrive\Документы\GitHub\domashnee-zadanie-no1-qvilliii\Program.cs" Link="Program.cs" />
+  </ItemGroup>
+
+</Project>
